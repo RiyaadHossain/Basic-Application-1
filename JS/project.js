@@ -16,6 +16,7 @@ document.getElementById("add_btn").addEventListener("click", function () {
             <td>
              <button class= "del_btn btn btn-danger">Delete</button>
              <button class= "succ_btn btn btn-success">Done</button>
+             <button class= "edit_btn btn btn-info">Edit</button>
             </td>
           `;
     tableBody.appendChild(tableRow);
